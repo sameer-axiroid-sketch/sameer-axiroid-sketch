@@ -64,7 +64,7 @@
        Filhal yeh image placeholder hai taaky aap look check kar sakein. 
        Jab action set karein to neeche wali line uncomment karein aur image link change karein. -->
   
-  <!-- <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" /> -->
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 
   <br />
 
