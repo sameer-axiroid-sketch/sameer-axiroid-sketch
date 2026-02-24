@@ -62,16 +62,6 @@
 
   <table border="0" width="100%">
     <tr>
-      <td width="50%">
-        <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1000&auto=format&fit=crop" width="100%" style="border-radius: 10px;" alt="Project 2" />
-      </td>
-      <td width="50%" valign="top">
-        <h3 align="center"> SaaS Chatbot Builder</h3>
-        <p align="center">
-          No-code platform to build custom AI chatbots.
-          <br/>
-          <b>Tech:</b> React, Node.js, LangChain.
-        </p>
         <p align="center">
           <a href="LINK_TO_LIVE_DEMO">
             <img src="https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=vercel&logoColor=white" />
