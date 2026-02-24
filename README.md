@@ -51,12 +51,11 @@
           <b>Tech:</b> Next.js 15, Stripe, OpenAI.
         </p>
         <p align="center">
-          <a href="LINK_TO_LIVE_DEMO">
             live demo: https://sameer-axiroid-sketch.github.io/nexaverse-digital-agency/
           </a>
           &nbsp;
           
-    </tr>
+    
   </table>
 
   <br/>
