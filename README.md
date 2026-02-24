@@ -111,10 +111,7 @@
 
   <br />
 
-  <!-- 6. 3D CITY (LIGHT MODE FRIENDLY) -->
-  <h3>🏙️ Contribution Landscape</h3>
-  <!-- NOTE: Maine yahan image ka naam change kar ke 'profile-south-season.svg' kar diya hai -->
-  <!-- Yeh image Green/Orange hoti hai jo White background par bohot achi lagti hai -->
-  <img src="./profile-3d-contrib/profile-south-season.svg" width="100%" alt="3D City" />
-
+  <!-- 6. 3D CITY (ANIMATED VERSION) -->
+<h3>🏙️ Contribution Landscape</h3>
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D City Animated" />
 </div>
