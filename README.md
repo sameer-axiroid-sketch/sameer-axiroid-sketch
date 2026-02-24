@@ -15,7 +15,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
     </a>
     &nbsp;
-    <a href="mailto:your-email@example.com">
+    <a href="sameer.axiroid@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
     </a>
   </p>
@@ -23,12 +23,12 @@
   <br />
 
   <!-- 3. TECH STACK -->
-  <h3>⚡ Core Technologies</h3>
+  <h3> Core Technologies</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,next,react,nodejs,express,python,django&theme=dark" />
   </a>
   <br/>
-  <h3>🛠️ DevOps & Tools</h3>
+  <h3> DevOps & Tools</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,postgres,prisma,tailwind,figma&theme=dark" />
   </a>
@@ -37,13 +37,13 @@
 
   <!-- 4. FEATURED PROJECTS (NEW SECTION) -->
   <!-- Yeh Section Modern Card Style Mein Hai -->
-  <h2 align="center">🚀 Featured Projects</h2>
+  <h2 align="center"> Featured Projects</h2>
 
   <!-- Project 1 -->
   <table border="0" width="100%">
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center">🛒 E-Commerce AI Agent</h3>
+        <h3 align="center"> E-Commerce AI Agent</h3>
         <p align="center">
           A full-stack e-commerce platform powered by AI for personalized recommendations.
           <br/>
@@ -76,7 +76,7 @@
         <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1000&auto=format&fit=crop" width="100%" style="border-radius: 10px;" alt="Project 2" />
       </td>
       <td width="50%" valign="top">
-        <h3 align="center">🤖 SaaS Chatbot Builder</h3>
+        <h3 align="center"> SaaS Chatbot Builder</h3>
         <p align="center">
           No-code platform to build custom AI chatbots for businesses.
           <br/>
@@ -98,7 +98,7 @@
   <br /><br />
 
   <!-- 5. STATS & TROPHIES (Replaced Broken Langs) -->
-  <h3>📊 GitHub Stats</h3>
+  <h3> GitHub Stats</h3>
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameer-axiroid-sketch&theme=tokyonight&hide_border=true&background=0D1117&ring=20C20E&fire=20C20E&currStreakLabel=20C20E" alt="GitHub Streak" />
   </p>
@@ -113,7 +113,7 @@
   <br />
 
   <!-- 6. 3D CITY -->
-  <h3>🏙️ Contribution Landscape</h3>
+  <h3> Contribution Landscape</h3>
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D City" />
 
 </div>
