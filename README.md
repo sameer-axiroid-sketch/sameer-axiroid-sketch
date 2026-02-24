@@ -1,19 +1,19 @@
 <div align="center">
   <!-- HEADER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=HeyI'mSameer%20&<br />&fontSize=70&fontColor=ffffff&fontAlign=50desc=Architecting%20Scalable%20Apps%20%7C%20Full%20Stack%20%7C%20AI%20Integrations&descAlign=50&descSize=20" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Sameer%20(Axiroid)&fontSize=70&fontColor=ffffff&fontAlign=50&desc=Architecting%20Scalable%20Apps%20%7C%20Full%20Stack%20%7C%20AI%20Integrations&descAlign=50&descSize=20" width="100%" alt="Header" />
   <br />
   
   <!-- BENTO GRID (Compact Version for GitHub) -->
   <table width="900" border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td width="55%" valign="top">
-        <h3>⚡ The Engineering Philosophy</h3>
+        <h3> The Engineering Philosophy</h3>
         <p>Hi, I'm <b>Sameer</b>. I don't just write code; I build digital ecosystems. Currently transitioning from traditional MERN to <b>Next-Gen Architectures</b>.</p>
-        <p><b>🔭 Current Focus:</b><br />&nbsp;&nbsp;🔹 Serverless Computing (Next.js 15)<br />&nbsp;&nbsp;🔹 AI Agents & LLM Integration<br />&nbsp;&nbsp;🔹 System Design & Scalability</p>
+        <p><b> Current Focus:</b><br />&nbsp;&nbsp;🔹 Serverless Computing (Next.js 15)<br />&nbsp;&nbsp;🔹 AI Agents & LLM Integration<br />&nbsp;&nbsp;🔹 System Design & Scalability</p>
         <a href="https://github.com/sameer-axiroid-sketch?tab=repositories"><img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
       </td>
       <td width="45%" valign="top" align="center">
-        <h3>🛠️ The Arsenal</h3>
+        <h3> The Arsenal</h3>
         <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,express,postgres,prisma,docker,git,tailwind,figma,python&perline=4" /></a>
       </td>
     </tr>
