@@ -25,7 +25,7 @@
   <br />
 
   <!-- 3. TECH STACK (Light/Dark Friendly) -->
-  <h3>⚡ Core Technologies</h3>
+  <h3> Core Technologies</h3>
   <!-- theme=light kar diya taaky icons white background par clean lagein -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,next,react,nodejs,express,python,django&theme=light" />
@@ -66,7 +66,7 @@
         <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1000&auto=format&fit=crop" width="100%" style="border-radius: 10px;" alt="Project 2" />
       </td>
       <td width="50%" valign="top">
-        <h3 align="center">🤖 SaaS Chatbot Builder</h3>
+        <h3 align="center"> SaaS Chatbot Builder</h3>
         <p align="center">
           No-code platform to build custom AI chatbots.
           <br/>
@@ -88,7 +88,7 @@
   <br /><br />
 
   <!-- 5. STATS (CLEAN LIGHT THEME) -->
-  <h3>📊 GitHub Stats</h3>
+  <h3> GitHub Stats</h3>
   <p align="center">
     <!-- Theme ko 'default' kar diya hai jo Light/Dark dono par chalta hai -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameer-axiroid-sketch&theme=default&hide_border=true" alt="GitHub Streak" />
@@ -104,7 +104,7 @@
   <br />
 
 <!-- 6. CONTRIBUTION SNAKE (Always Active Animation) -->
-  <h3>🐍 My Coding Activity</h3>
+  <h3> My Coding Activity</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sameer-axiroid-sketch/sameer-axiroid-sketch/raw/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/sameer-axiroid-sketch/sameer-axiroid-sketch/raw/output/github-contribution-grid-snake.svg">
