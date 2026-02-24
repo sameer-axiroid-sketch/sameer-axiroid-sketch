@@ -111,7 +111,11 @@
 
   <br />
 
-  <!-- 6. 3D CITY (ANIMATED VERSION) -->
-<h3>🏙️ Contribution Landscape</h3>
-<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D City Animated" />
+<!-- 6. CONTRIBUTION SNAKE (Always Active Animation) -->
+  <h3>🐍 My Coding Activity</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sameer-axiroid-sketch/sameer-axiroid-sketch/raw/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/sameer-axiroid-sketch/sameer-axiroid-sketch/raw/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/sameer-axiroid-sketch/sameer-axiroid-sketch/raw/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
