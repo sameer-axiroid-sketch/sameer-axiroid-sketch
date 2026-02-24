@@ -39,12 +39,12 @@
   <br /><br />
 
   <!-- 4. FEATURED PROJECTS (Clean Card Look) -->
-  <h2 align="center">🚀 Featured Projects</h2>
+  <h2 align="center"> Featured Projects</h2>
 
   <table border="0" width="100%">
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center">🛒 E-Commerce AI Agent</h3>
+        <h3 align="center"> nexaverse-digital-agency</h3>
         <p align="center">
           AI-powered personalized recommendations platform.
           <br/>
@@ -52,7 +52,7 @@
         </p>
         <p align="center">
           <a href="LINK_TO_LIVE_DEMO">
-            <img src="[https://img.shields.io/badge/](https://sameer-axiroid-sketch.github.io/nexaverse-digital-agency/)Live_Demo-2EA44F?style=for-the-badge&logo=vercel&logoColor=white" />
+            <img src="https://sameer-axiroid-sketch.github.io/nexaverse-digital-agency/Live_Demo-2EA44F?style=for-the-badge&logo=vercel&logoColor=white" />
           </a>
           &nbsp;
           
