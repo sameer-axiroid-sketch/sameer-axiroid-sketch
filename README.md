@@ -58,10 +58,6 @@
     
   </table>
 
-  <br/>
-
-  <table border="0" width="100%">
-  </table>
 
   <br /><br />
 
