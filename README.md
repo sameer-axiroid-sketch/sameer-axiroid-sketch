@@ -61,18 +61,6 @@
   <br/>
 
   <table border="0" width="100%">
-    <tr>
-        <p align="center">
-          <a href="LINK_TO_LIVE_DEMO">
-            <img src="https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=vercel&logoColor=white" />
-          </a>
-          &nbsp;
-          <a href="LINK_TO_REPO">
-            <img src="https://img.shields.io/badge/Code-24292E?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </p>
-      </td>
-    </tr>
   </table>
 
   <br /><br />
