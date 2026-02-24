@@ -1,6 +1,6 @@
 <div align="center">
   <!-- HEADER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Sameer%20<br>&fontSize=70&fontColor=ffffff&fontAlign=50&desc=Architecting%20Scalable%20Apps%20%7C%20Full%20Stack%20%7C%20AI%20Integrations&descAlign=50&descSize=20" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Sameer%20&fontSize=70&fontColor=ffffff&fontAlign=50&<br>desc=Architecting%20Scalable%20Apps%20%7C%20Full%20Stack%20%7C%20AI%20Integrations&descAlign=50&descSize=20" width="100%" alt="Header" />
   <br />
   
   <!-- BENTO GRID (Compact Version for GitHub) -->
