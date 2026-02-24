@@ -52,7 +52,7 @@
         </p>
         <p align="center">
           <a href="LINK_TO_LIVE_DEMO">
-            <img src="https://sameer-axiroid-sketch.github.io/nexaverse-digital-agency/Live_Demo-2EA44F?style=for-the-badge&logo=vercel&logoColor=white" />
+            live demo: https://sameer-axiroid-sketch.github.io/nexaverse-digital-agency/
           </a>
           &nbsp;
           
