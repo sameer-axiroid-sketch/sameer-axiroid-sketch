@@ -1,66 +1,66 @@
 <div align="center">
 
-  <!-- 1. HEADER -->
+  <!-- 1. HEADER: Universal Color (Blue/Dark Grey) -->
+  <!-- Color change kar ke #333333 (Dark Grey) aur #2f80ed (Blue) kar diya hai -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sameer+(Axiroid);Architecting+Scalable+Apps;Full+Stack+%2B+AI+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sameer+(Axiroid);Architecting+Scalable+Apps;Full+Stack+%2B+AI+Engineer" alt="Typing SVG" />
   </a>
 
-  <p style="font-size: 16px; color: #94a3b8;">
+  <!-- Bio Text (Universal Color) -->
+  <p style="font-size: 16px;">
     Turning complex problems into elegant <b>Next.js</b> & <b>AI</b> solutions.
   </p>
 
-  <!-- 2. SOCIALS -->
+  <!-- 2. SOCIALS (Clean Style) -->
   <p>
     <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
     </a>
     &nbsp;
-    <a href="sameer.axiroid@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
+    <a href="mailto:your-email@example.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
     </a>
   </p>
 
   <br />
 
-  <!-- 3. TECH STACK -->
-  <h3> Core Technologies</h3>
+  <!-- 3. TECH STACK (Light/Dark Friendly) -->
+  <h3>⚡ Core Technologies</h3>
+  <!-- theme=light kar diya taaky icons white background par clean lagein -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,next,react,nodejs,express,python,django&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts,next,react,nodejs,express,python,django&theme=light" />
   </a>
   <br/>
-  <h3> DevOps & Tools</h3>
+  <h3>🛠️ DevOps & Tools</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,postgres,prisma,tailwind,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,docker,postgres,prisma,tailwind,figma&theme=light" />
   </a>
 
   <br /><br />
 
-  <!-- 4. FEATURED PROJECTS (NEW SECTION) -->
-  <!-- Yeh Section Modern Card Style Mein Hai -->
-  <h2 align="center"> Featured Projects</h2>
+  <!-- 4. FEATURED PROJECTS (Clean Card Look) -->
+  <h2 align="center">🚀 Featured Projects</h2>
 
-  <!-- Project 1 -->
   <table border="0" width="100%">
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center"> E-Commerce AI Agent</h3>
+        <h3 align="center">🛒 E-Commerce AI Agent</h3>
         <p align="center">
-          A full-stack e-commerce platform powered by AI for personalized recommendations.
+          AI-powered personalized recommendations platform.
           <br/>
-          <b>Tech:</b> Next.js 15, Stripe, OpenAI, Tailwind.
+          <b>Tech:</b> Next.js 15, Stripe, OpenAI.
         </p>
         <p align="center">
           <a href="LINK_TO_LIVE_DEMO">
-            <img src="https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
+            <img src="https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=vercel&logoColor=white" />
           </a>
           &nbsp;
           <a href="LINK_TO_REPO">
-            <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+            <img src="https://img.shields.io/badge/Code-24292E?style=for-the-badge&logo=github&logoColor=white" />
           </a>
         </p>
       </td>
       <td width="50%">
-        <!-- Project Image (Placeholder - Apne Project ka Screenshot lagayein) -->
         <img src="https://images.unsplash.com/photo-1557821552-17105176677c?q=80&w=1000&auto=format&fit=crop" width="100%" style="border-radius: 10px;" alt="Project 1" />
       </td>
     </tr>
@@ -68,27 +68,25 @@
 
   <br/>
 
-  <!-- Project 2 -->
   <table border="0" width="100%">
     <tr>
       <td width="50%">
-        <!-- Project Image -->
         <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1000&auto=format&fit=crop" width="100%" style="border-radius: 10px;" alt="Project 2" />
       </td>
       <td width="50%" valign="top">
-        <h3 align="center"> SaaS Chatbot Builder</h3>
+        <h3 align="center">🤖 SaaS Chatbot Builder</h3>
         <p align="center">
-          No-code platform to build custom AI chatbots for businesses.
+          No-code platform to build custom AI chatbots.
           <br/>
-          <b>Tech:</b> React, Node.js, LangChain, Supabase.
+          <b>Tech:</b> React, Node.js, LangChain.
         </p>
         <p align="center">
           <a href="LINK_TO_LIVE_DEMO">
-            <img src="https://img.shields.io/badge/Live_Demo-0070F3?style=for-the-badge&logo=vercel&logoColor=white" />
+            <img src="https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=vercel&logoColor=white" />
           </a>
           &nbsp;
           <a href="LINK_TO_REPO">
-            <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+            <img src="https://img.shields.io/badge/Code-24292E?style=for-the-badge&logo=github&logoColor=white" />
           </a>
         </p>
       </td>
@@ -97,23 +95,26 @@
 
   <br /><br />
 
-  <!-- 5. STATS & TROPHIES (Replaced Broken Langs) -->
-  <h3> GitHub Stats</h3>
+  <!-- 5. STATS (CLEAN LIGHT THEME) -->
+  <h3>📊 GitHub Stats</h3>
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameer-axiroid-sketch&theme=tokyonight&hide_border=true&background=0D1117&ring=20C20E&fire=20C20E&currStreakLabel=20C20E" alt="GitHub Streak" />
+    <!-- Theme ko 'default' kar diya hai jo Light/Dark dono par chalta hai -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameer-axiroid-sketch&theme=default&hide_border=true" alt="GitHub Streak" />
   </p>
   
-  <!-- Trophies (Ye Hamesha Load Hoti Hain - Broken Langs ka Best Alternative) -->
   <p align="center">
+    <!-- Trophies ko bhi clean kar diya -->
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=sameer-axiroid-sketch&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+      <img src="https://github-profile-trophy.vercel.app/?username=sameer-axiroid-sketch&theme=flat&no-frame=true&no-bg=true&margin-w=4" />
     </a>
   </p>
 
   <br />
 
-  <!-- 6. 3D CITY -->
-  <h3> Contribution Landscape</h3>
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D City" />
+  <!-- 6. 3D CITY (LIGHT MODE FRIENDLY) -->
+  <h3>🏙️ Contribution Landscape</h3>
+  <!-- NOTE: Maine yahan image ka naam change kar ke 'profile-south-season.svg' kar diya hai -->
+  <!-- Yeh image Green/Orange hoti hai jo White background par bohot achi lagti hai -->
+  <img src="./profile-3d-contrib/profile-south-season.svg" width="100%" alt="3D City" />
 
 </div>
