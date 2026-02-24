@@ -52,17 +52,10 @@
         </p>
         <p align="center">
           <a href="LINK_TO_LIVE_DEMO">
-            <img src="https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=vercel&logoColor=white" />
+            <img src="[https://img.shields.io/badge/](https://sameer-axiroid-sketch.github.io/nexaverse-digital-agency/)Live_Demo-2EA44F?style=for-the-badge&logo=vercel&logoColor=white" />
           </a>
           &nbsp;
-          <a href="LINK_TO_REPO">
-            <img src="https://img.shields.io/badge/Code-24292E?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </p>
-      </td>
-      <td width="50%">
-        <img src="https://images.unsplash.com/photo-1557821552-17105176677c?q=80&w=1000&auto=format&fit=crop" width="100%" style="border-radius: 10px;" alt="Project 1" />
-      </td>
+          
     </tr>
   </table>
 
