@@ -59,8 +59,6 @@
   </table>
 
 
-  <br /><br />
-
   <!-- 5. STATS (CLEAN LIGHT THEME) -->
   <h3> GitHub Stats</h3>
   <p align="center">
