@@ -3,7 +3,7 @@
   <!-- 1. HEADER: Universal Color (Blue/Dark Grey) -->
   <!-- Color change kar ke #333333 (Dark Grey) aur #2f80ed (Blue) kar diya hai -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sameer+(Axiroid);Architecting+Scalable+Apps;Full+Stack+%2B+AI+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=#727473&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sameer+(Axiroid);Architecting+Scalable+Apps;Full+Stack+%2B+AI+Engineer" alt="Typing SVG" />
   </a>
 
   <!-- Bio Text (Universal Color) -->
