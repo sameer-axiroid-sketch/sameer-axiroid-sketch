@@ -13,7 +13,7 @@
 
   <!-- 2. SOCIALS (Clean Style) -->
   <p>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <a href="https://www.linkedin.com/in/sameer-jawaid-b95500402/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
     </a>
     &nbsp;
